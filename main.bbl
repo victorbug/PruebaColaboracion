@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{Zhang2018}
+Y.~Zhang, Z.~Qiu, T.~Yao, D.~Liu, and T.~Mei, ``{Fully Convolutional Adaptation
+  Networks for Semantic Segmentation},'' {\em Proceedings of the IEEE Computer
+  Society Conference on Computer Vision and Pattern Recognition},
+  pp.~6810--6818, 2018.
+
+\bibitem{overleaf}
+Overleaf, ``Uno de los mejores editores online para \latex, renovado con su
+  versión 2.0,'' 2021.
+
+\bibitem{excel2latex}
+Excel2Latex, ``Plugin para hacer tablas con excel,'' 2017.
+
+\bibitem{tablesgenerator}
+T.~Generator, ``Creador de tablas online para \latex,'' 2021.
+
+\bibitem{einstein}
+A.~Einstein, ``{Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
+  electrodynamics of moving bodies],'' {\em Annalen der Physik}, vol.~322,
+  no.~10, pp.~891--921, 1905.
+
+\bibitem{templatelatex}
+P.~Pizarro, ``Template informe en \latex,'' 2016-2021.
+
+\end{thebibliography}
